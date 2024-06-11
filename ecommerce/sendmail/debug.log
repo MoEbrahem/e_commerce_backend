@@ -1,0 +1,56 @@
+23/11/15 00:24:52 ** --- MESSAGE BEGIN ---
+23/11/15 00:24:52 ** To: Mohamed24taa@gmail.com
+23/11/15 00:24:52 ** Subject: Hi
+23/11/15 00:24:52 ** From: testsite <mail@testsite.com>
+23/11/15 00:24:52 ** CC: Mohamed24taa@gmail.com
+23/11/15 00:24:52 ** 
+23/11/15 00:24:52 ** From PHP Sending Mail
+23/11/15 00:24:52 ** --- MESSAGE END ---
+23/11/15 00:24:55 ** Connecting to smtp.gmail.com:587
+23/11/15 00:24:56 ** Connected.
+23/11/15 00:24:56 << 220 smtp.gmail.com ESMTP o11-20020adfcf0b000000b0032d9f32b96csm8998833wrj.62 - gsmtp<EOL>
+23/11/15 00:24:56 >> EHLO DESKTOP-3B2BO2G<EOL>
+23/11/15 00:24:57 << 250-smtp.gmail.com at your service, [41.44.195.61]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/11/15 00:24:57 ** Authenticating as my-gmail-id@gmail.com
+23/11/15 00:24:57 >> STARTTLS<EOL>
+23/11/15 00:24:57 << 220 2.0.0 Ready to start TLS<EOL>
+23/11/15 00:24:57 >> EHLO DESKTOP-3B2BO2G<EOL>
+23/11/15 00:24:57 << 250-smtp.gmail.com at your service, [41.44.195.61]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/11/15 00:24:57 >> AUTH LOGIN<EOL>
+23/11/15 00:24:58 << 334 VXNlcm5hbWU6<EOL>
+23/11/15 00:24:58 >> bXktZ21haWwtaWRAZ21haWwuY29t<EOL>
+23/11/15 00:24:58 << 334 UGFzc3dvcmQ6<EOL>
+23/11/15 00:24:58 >> bXktZ21haWwtcGFzc3dvcmQ=<EOL>
+23/11/15 00:24:58 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials o11-20020adfcf0b000000b0032d9f32b96csm8998833wrj.62 - gsmtp<EOL>
+23/11/15 00:24:58 ** Disconnecting from smtp.gmail.com:587
+23/11/15 00:24:58 ** Disconnected.
+23/11/15 00:24:58 ** Disconnected.
+23/11/15 00:24:58 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials o11-20020adfcf0b000000b0032d9f32b96csm8998833wrj.62 - gsmtp<EOL>
+23/11/15 00:34:39 ** --- MESSAGE BEGIN ---
+23/11/15 00:34:39 ** To: Mohamed24taa@gmail.com
+23/11/15 00:34:39 ** Subject: Hi
+23/11/15 00:34:39 ** From: testsite <mail@testsite.com>
+23/11/15 00:34:39 ** CC: Mohamed24taa@gmail.com
+23/11/15 00:34:39 ** 
+23/11/15 00:34:39 ** From PHP Sending Mail
+23/11/15 00:34:39 ** --- MESSAGE END ---
+23/11/15 00:34:41 ** Connecting to smtp.gmail.com:587
+23/11/15 00:34:42 ** Connected.
+23/11/15 00:34:42 << 220 smtp.gmail.com ESMTP x15-20020adfffcf000000b0031984b370f2sm9068190wrs.47 - gsmtp<EOL>
+23/11/15 00:34:42 >> EHLO DESKTOP-3B2BO2G<EOL>
+23/11/15 00:34:42 << 250-smtp.gmail.com at your service, [41.44.195.61]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/11/15 00:34:42 ** Authenticating as my-gmail-id@gmail.com
+23/11/15 00:34:42 >> STARTTLS<EOL>
+23/11/15 00:34:42 << 220 2.0.0 Ready to start TLS<EOL>
+23/11/15 00:34:42 >> EHLO DESKTOP-3B2BO2G<EOL>
+23/11/15 00:34:42 << 250-smtp.gmail.com at your service, [41.44.195.61]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+23/11/15 00:34:42 >> AUTH LOGIN<EOL>
+23/11/15 00:34:42 << 334 VXNlcm5hbWU6<EOL>
+23/11/15 00:34:42 >> bXktZ21haWwtaWRAZ21haWwuY29t<EOL>
+23/11/15 00:34:42 << 334 UGFzc3dvcmQ6<EOL>
+23/11/15 00:34:42 >> bXktZ21haWwtcGFzc3dvcmQ=<EOL>
+23/11/15 00:34:42 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials x15-20020adfffcf000000b0031984b370f2sm9068190wrs.47 - gsmtp<EOL>
+23/11/15 00:34:42 ** Disconnecting from smtp.gmail.com:587
+23/11/15 00:34:42 ** Disconnected.
+23/11/15 00:34:42 ** Disconnected.
+23/11/15 00:34:42 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials x15-20020adfffcf000000b0031984b370f2sm9068190wrs.47 - gsmtp<EOL>
